@@ -13,7 +13,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    <vaadin.version>8.0.6</vaadin.version>
+    <vaadin.version>8.1.6</vaadin.version>
     <undertow.version>2.0.0.Alpha1</undertow.version>
     <javax.servlet-api.version>4.0.0-b07</javax.servlet-api.version>
     <selenium.version>3.4.0</selenium.version>
@@ -199,7 +199,7 @@
     <dependency>
       <groupId>org.rapidpm</groupId>
       <artifactId>rapidpm-functional-reactive</artifactId>
-      <version>0.0.5-SNAPSHOT</version>
+      <version>0.0.5</version>
     </dependency>
 
 
